@@ -3,10 +3,10 @@ import React from 'react'
 
 import { Metadata } from 'next';
 export const metadata: Metadata = {
-  title: "ZOOM",
-  description: "Video calling App",
+  title: "Meet Pro",
+  description: "Meet pro is a video calling App",
   icons: {
-    icon: "/icons/logo.svg",
+    icon: "/icons/logo.png",
   },
 };
 
